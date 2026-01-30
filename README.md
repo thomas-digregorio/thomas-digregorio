@@ -1,6 +1,6 @@
 # Thomas DiGregorio 👋
 
-**Data Science & Machine Learning Engineer**  
+**Data Scientist & Machine Learning Engineer**  
 Deep Learning • Reinforcement Learning • Graph Neural Networks • Applied AI Systems
 
 I build scalable ML and data science systems, research-grade pipelines, and end-to-end AI applications across trading, medicine, control systems, and real-world data problems.
