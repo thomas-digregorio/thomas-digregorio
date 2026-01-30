@@ -3,7 +3,7 @@
 **Data Science & Machine Learning Engineer**  
 Deep Learning • Reinforcement Learning • Graph Neural Networks • Applied AI Systems
 
-I build scalable ML systems, research-grade pipelines, and end-to-end AI applications across medicine, control systems, and real-world data problems.
+I build scalable ML systems, research-grade pipelines, and end-to-end AI applications across trading, medicine, control systems, and real-world data problems.
 
 ---
 
