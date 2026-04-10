@@ -1,6 +1,6 @@
 # Thomas DiGregorio - New Haven, CT
 
-**Data Scientist & Machine Learning Engineer**  
+**Data Scientist & Machine Learning Engineer & Trader**  
 Optimization • Deep Learning • RL • Graph Neural Networks • Applied AI Systems • Simulation • Webapps
 
 ### **Languages & Tools**
