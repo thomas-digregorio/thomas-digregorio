@@ -1,13 +1,13 @@
 # Thomas DiGregorio - New Haven, CT
 
-**Data Scientist & Machine Learning Engineer & Trader**  
+**Data Scientist & Trader**  
 Optimization • Deep Learning • RL • Graph Neural Networks • Applied AI Systems • Simulation • Webapps
 
 ### **Languages & Tools**
 - Python, SQL, Bash
-- PyTorch, NumPy, Pandas, Scikit-learn, SciPy
+- PyTorch, NumPy, Pandas, Scikit-learn, SciPy, HiGHS 
 - Snowflake, PostgreSQL, SQLite, Supabase
-- Docker, Git, Linux, Jupyter, Cursor, Codex, W and B
+- Docker, Git, Linux, Jupyter, Cursor, Codex, W & B
 
 ### **Data & Infrastructure**
 - Data modeling, ETL/ELT pipelines, feature engineering
